@@ -5,7 +5,7 @@ var Splash = React.createClass({
     render: function() {
         return (
             <div>
-                Don't forget to <a href="login">login</a>
+                Don't forget to <a href="login">login</a> to the DBA
             </div>
         );
     }
