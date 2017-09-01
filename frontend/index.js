@@ -1,4 +1,4 @@
 import {registerComponent} from 'bloom';
-import SplashContainer from './containers/splashContainer';
+import HoldingPageContainer from './containers/holdingPageContainer';
 
-registerComponent('splash', 'Splash', SplashContainer, 'front');
+registerComponent('holdingpage', 'Holding Page', HoldingPageContainer, 'front');
